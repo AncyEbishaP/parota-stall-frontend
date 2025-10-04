@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 
 // API Base URL
-const API_URL = 'http://localhost:5000/api';
+
+const API_URL = 'https://parota-stall-api.onrender.com/api';
 
 // Menu items organized by categories with actual prices from your menu
 const MENU_CATEGORIES = {
