@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 
 const API_URL = 'https://parota-stall-api.onrender.com/api';
 
+
 // Menu items organized by categories with actual prices from your menu
 const MENU_CATEGORIES = {
   'Kothu Parotta': {
